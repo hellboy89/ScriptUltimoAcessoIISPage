@@ -4,7 +4,7 @@ Write-Host "===============================" -ForegroundColor Yellow
 Import-Module WebAdministration
 
 # ==========================================================
-$site          = "serverimagecicles.iuven.com.br"
+$site          = "teste.iuven.com.br"
 $ultimasLinhas = 20
 $paisFiltro    = "Brazil"
 # ==========================================================
